@@ -1,80 +1,80 @@
-clock         	6333
-snowboard              2684
-zebra                       5302
-suitcase                   6191
-bed                         4191
-motorcycle             8724
-cow                        8146
-elephant                 5512
-boat        	              10758
-dining table           15713
-hair drier               197
-potted plant          8651
-donut                    7178
-pizza                     5820
-cup                       20649
-kite                       9075
-laptop                  4969
-bicycle                 7112
-toaster                 224
-backpack             8719
-hot dog               2917
-sheep                  9508
-dog                     5507
-horse                   6586
-person                 262464
-bench                  9837
-cake         6352
-fork         5478
-giraffe         5130
-train         4570
-airplane         5134
-apple         5850
-teddy bear         4792
-fire hydrant         1864
-tv         5804
-toothbrush         1953
-bus         6068
-broccoli         7307
-baseball bat         3275
-surfboard         6125
-microwave         1672
-vase         6612
-oven         3333
-refrigerator         2636
-frisbee         2681
-parking meter         1284
-toilet         4156
-book         24714
-bear         1293
-orange         6398
-truck         9972
-chair         38490
-scissors         1480
-carrot         7851
-traffic light         12883
-skateboard         5542
-bottle         24341
-mouse         2261
-wine glass         7912
-knife         7769
-banana         9457
-handbag         12353
-cat         4767
-keyboard         2854
-tennis racket         4811
-couch         5778
-spoon         6164
-bowl         14357
-umbrella         11430
-car         43866
+clock         	    6333
+snowboard           2684
+zebra               5302
+suitcase            6191
+bed                 4191
+motorcycle          8724
+cow                 8146
+elephant            5512
+boat        	      10758
+dining table        15713
+hair drier          197
+potted plant        8651
+donut               7178
+pizza               5820
+cup                 20649
+kite                9075
+laptop              4969
+bicycle             7112
+toaster             224
+backpack            8719
+hot dog             2917
+sheep               9508
+dog                 5507
+horse               6586
+person              262464
+bench               9837
+cake                6352
+fork                5478
+giraffe             5130
+train               4570
+airplane            5134
+apple               5850
+teddy bear          4792
+fire hydrant        1864
+tv                  5804
+toothbrush          1953
+bus                 6068
+broccoli            7307
+baseball bat        3275
+surfboard           6125
+microwave           1672
+vase                6612
+oven                3333
+refrigerator        2636
+frisbee             2681
+parking meter       1284
+toilet              4156
+book                24714
+bear                1293
+orange              6398
+truck               9972
+chair               38490
+scissors            1480
+carrot              7851
+traffic light       12883
+skateboard          5542
+bottle              24341
+mouse               2261
+wine glass          7912
+knife               7769
+banana              9457
+handbag             12353
+cat                 4767
+keyboard            2854
+tennis racket       4811
+couch               5778
+spoon               6164
+bowl                14357
+umbrella            11430
+car                 43866
 sports ball         6346
-skis         6645
-tie         6495
-remote         5702
-stop sign         1982
-bird         10805
-baseball glove         3746
-sandwich         4372
-cell phone         6433
-sink         5609
+skis                6645
+tie                 6495
+remote              5702
+stop sign           1982
+bird                10805
+baseball glove      3746
+sandwich            4372
+cell phone          6433
+sink                5609
